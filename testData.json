@@ -4,34 +4,34 @@
     "key": "xQZ",
     "time": "0.382",
     "finalString": "rDFiI5YXJyuTf94AV2qwvH1jpRhBsnc3kPUlxQZbMCLO8KzSgt",
-    "tries": 1402
+    "tries": "1402"
   },
   {
     "originalString": "Ctzkm3XYUpB5sLTZHvxoGcN2QgKy0nM1JVbhAuFEOqle9Pr7a6",
     "key": "Ctz",
     "time": "1.367",
     "finalString": "EcLv6maWbqxXUGjKgCtz79Flh1k0rP4ifSZQRsyBAd8uIVpODN",
-    "tries": 5229
+    "tries": "5229"
   },
   {
     "originalString": "I5RC1kfQeXt0yAiUzPNhJ6cWDEoqO9wBxLudnS2rMs8bga4KTH",
     "key": "I5R",
     "time": "0.579",
     "finalString": "H1w6prXyEYbTSqmo2fD0Ui3haAB7gunFJezPsGk8NQlOvI5RtW",
-    "tries": 2216
+    "tries": "2216"
   },
   {
     "originalString": "v7Ac6iRoGsx1zBPFdt8grDXqKhY3bNVfuSJ59H4Okpj0eTCaE2",
     "key": "v7A",
     "time": "0.378",
     "finalString": "9bxEicUZtNdTzD2gjHW1nrqkv7AuMSm0Ff5OI6VaoKRyBC8wes",
-    "tries": 1444
+    "tries": "1444"
   },
   {
     "originalString": "CrlB2hqKn7gkROcvX8opwbmSj6EAyVeYuGdZiTaLHQ3UfJF94x",
     "key": "Crl",
     "time": "0.182",
     "finalString": "8Mu5SNLVIBY4JOHb7sfTa2U1ACrlDKn9GkoyRqvmiQd0gcwXxP",
-    "tries": 691
+    "tries": "691"
   }
 ]
