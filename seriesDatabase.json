@@ -488,5 +488,65 @@
         "completed": false,
         "recommended": true,
         "available": true
+    },
+    {
+        "title": "Sex Education",
+        "provider": "Netflix",
+        "seasons": 2,
+        "episodes": 18,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Final Space",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "How to Sell Drugs Online (Fast)",
+        "provider": "Netflix",
+        "seasons": 2,
+        "episodes": 16,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "The Big Bang Theory",
+        "provider": "Netflix",
+        "seasons": 12,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Das Damengambit",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Bridgerton",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
     }
 ]
