@@ -49,13 +49,10 @@
         "provider": "Apple TV+",
         "seasons": 1,
         "episodes": 10,
-        "new": true,
+        "new": false,
         "completed": true,
         "recommended": false
-    },
-    
-    
-    
+    },  
     {
         "title": "Stranger Things",
         "provider": "Netflix",
@@ -74,15 +71,39 @@
         "completed": true,
         "recommended": true
     },
-    
-    
-    
     {
         "title": "Mr Robot",
         "provider": "Prime Video",
         "seasons": 4,
         "episodes": 0,
         "new": false,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Prison Break",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "Haus des Geldes",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "How to Get Away with Murder",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
         "completed": false,
         "recommended": true
     }
