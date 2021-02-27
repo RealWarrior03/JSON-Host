@@ -4,42 +4,48 @@
         "provider": "Apple TV+",
         "seasons": 1,
         "episodes": 8,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     {
         "title": "For All Mankind",
         "provider": "Apple TV+",
         "seasons": 2,
         "episodes": 13,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     {
         "title": "Dickinson",
         "provider": "Apple TV+",
         "seasons": 2,
         "episodes": 20,
-        "new": false
+        "new": false,
+        "recommended": false
     },
     {
         "title": "The Morning Show",
         "provider": "Apple TV+",
         "seasons": 1,
         "episodes": 10,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     {
         "title": "Defending Jacob",
         "provider": "Apple TV+",
         "seasons": 1,
         "episodes": 8,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     {
         "title": "Mythic Quest: Raven's Banquet",
         "provider": "Apple TV+",
         "seasons": 1,
         "episodes": 10,
-        "new": true
+        "new": true,
+        "recommended": false
     },
     
     
@@ -49,14 +55,16 @@
         "provider": "Netflix",
         "seasons": 3,
         "episodes": 25,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     {
         "title": "Brooklyn Nine-Nine",
         "provider": "Netflix",
         "seasons": 6,
         "episodes": 130,
-        "new": false
+        "new": false,
+        "recommended": true
     },
     
     
@@ -66,6 +74,7 @@
         "provider": "Prime Video",
         "seasons": 4,
         "episodes": 0,
-        "new": false
+        "new": false,
+        "recommended": true
     }
 ]
