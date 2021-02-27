@@ -106,5 +106,167 @@
         "new": true,
         "completed": false,
         "recommended": true
+    },
+    {
+        "title": "Outer Banks",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Breaking Bad",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Peaky Blinders - Gangs of Birmingham",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "House of Cards",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Vikings",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "Modern Family",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Rick & Morty",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Disenchantment",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "iZombie",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "Der Denver-Clan",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "The Umbrella Academy",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Bodyguard",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "Orange is the new Black",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Lupin",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Narcos",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Barbaren",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false
+    },
+    {
+        "title": "Biohackers",
+        "provider": "tbd",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true
+    },
+    {
+        "title": "Trying",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true,
+        "completed": true,
+        "recommended": false
     }
 ]
