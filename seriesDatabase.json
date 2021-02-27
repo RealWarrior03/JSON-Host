@@ -1,0 +1,64 @@
+[
+    {
+        "title": "See",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true
+    },
+    {
+        "title": "For All Mankind",
+        "provider": "Apple TV+",
+        "seasons": 2,
+        "episodes": 13,
+        "new": true
+    },
+    {
+        "title": "Dickinson",
+        "provider": "Apple TV+",
+        "seasons": 2,
+        "episodes": 20,
+        "new": true
+    },
+    {
+        "title": "The Morning Show",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 10,
+        "new": true
+    },
+    {
+        "title": "Defending Jacob",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true
+    },
+    
+    
+    
+    {
+        "title": "Stranger Things",
+        "provider": "Netflix",
+        "seasons": 3,
+        "episodes": 25,
+        "new": true
+    },
+    {
+        "title": "Brooklyn Nine-Nine",
+        "provider": "Netflix",
+        "seasons": 6,
+        "episodes": 130,
+        "new": true
+    },
+    
+    
+    
+    {
+        "title": "Mr Robot",
+        "provider": "Prime Video",
+        "seasons": 4,
+        "episodes": 0,
+        "new": true
+    }
+]
