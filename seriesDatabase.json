@@ -298,5 +298,195 @@
         "completed": true,
         "recommended": false,
         "available": true
+    },
+    {
+        "title": "Stark Trek: Discovery",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Apartment 23",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "The Rain",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Dogs of Berlin",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Better Call Saul",
+        "provider": "Netflix",
+        "seasons": 5,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Jane the Virgin",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 100,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Designated Survivor",
+        "provider": "Netflix",
+        "seasons": 3,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Love, Death & Robots",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "The Society",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Crossing Lines",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Mr. Iglesias",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Suits",
+        "provider": "Netflix",
+        "seasons": 8,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Élite",
+        "provider": "Netflix",
+        "seasons": 3,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "The Politician",
+        "provider": "Netflix",
+        "seasons": 2,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Big Mouth",
+        "provider": "Netflix",
+        "seasons": 4,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Wir sind die Welle",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "Sherlock",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
+    },
+    {
+        "title": "Lost in Space",
+        "provider": "Netflix",
+        "seasons": 0,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": false,
+        "available": true
+    },
+    {
+        "title": "The Witcher",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 8,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true
     }
 ]
