@@ -83,7 +83,7 @@
         "seasons": 4,
         "episodes": 0,
         "new": false,
-        "completed": true,
+        "completed": false,
         "recommended": true
     }
 ]
