@@ -5,6 +5,7 @@
         "seasons": 1,
         "episodes": 8,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     {
@@ -13,6 +14,7 @@
         "seasons": 2,
         "episodes": 13,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     {
@@ -21,6 +23,7 @@
         "seasons": 2,
         "episodes": 20,
         "new": false,
+        "completed": true,
         "recommended": false
     },
     {
@@ -29,6 +32,7 @@
         "seasons": 1,
         "episodes": 10,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     {
@@ -37,6 +41,7 @@
         "seasons": 1,
         "episodes": 8,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     {
@@ -45,6 +50,7 @@
         "seasons": 1,
         "episodes": 10,
         "new": true,
+        "completed": true,
         "recommended": false
     },
     
@@ -56,6 +62,7 @@
         "seasons": 3,
         "episodes": 25,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     {
@@ -64,6 +71,7 @@
         "seasons": 6,
         "episodes": 130,
         "new": false,
+        "completed": true,
         "recommended": true
     },
     
@@ -75,6 +83,7 @@
         "seasons": 4,
         "episodes": 0,
         "new": false,
+        "completed": true,
         "recommended": true
     }
 ]
