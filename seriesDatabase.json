@@ -603,5 +603,16 @@
         "recommended": false,
         "available": true,
         "exclusive": true
+    },
+    {
+        "title": "The Mandalorian",
+        "provider": "Disney+",
+        "seasons": 2,
+        "episodes": 0,
+        "new": true,
+        "completed": false,
+        "recommended": true,
+        "available": true,
+        "exclusive": true
     }
 ]
