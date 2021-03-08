@@ -669,5 +669,27 @@
         "recommended": false,
         "available": true,
         "exclusive": true
+    },
+    {
+        "title": "Star Wars: The Clone Wars",
+        "provider": "Disney+",
+        "seasons": 7,
+        "episodes": 133,
+        "new": 2020,
+        "completed": true,
+        "recommended": true,
+        "available": true,
+        "exclusive": true
+    },
+    {
+        "title": "WandaVision",
+        "provider": "Disney+",
+        "seasons": 1,
+        "episodes": 9,
+        "new": 2021,
+        "completed": true,
+        "recommended": false,
+        "available": true,
+        "exclusive": true
     }
 ]
