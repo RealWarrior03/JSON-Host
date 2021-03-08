@@ -621,8 +621,52 @@
         "seasons": 1,
         "episodes": 6,
         "new": 2021,
-        "completed": false,
+        "completed": true,
         "recommended": true,
+        "available": true,
+        "exclusive": true
+    },
+    {
+        "title": "Truth be Told",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 8,
+        "new": 2019,
+        "completed": true,
+        "recommended": false,
+        "available": true,
+        "exclusive": true
+    },
+    {
+        "title": "Unglaubliche Geschichten",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 5,
+        "new": 2020,
+        "completed": true,
+        "recommended": false,
+        "available": true,
+        "exclusive": true
+    },
+    {
+        "title": "Little Voice",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 9,
+        "new": 2020,
+        "completed": true,
+        "recommended": false,
+        "available": true,
+        "exclusive": true
+    },
+    {
+        "title": "Central Park",
+        "provider": "Apple TV+",
+        "seasons": 1,
+        "episodes": 10,
+        "new": 2020,
+        "completed": true,
+        "recommended": false,
         "available": true,
         "exclusive": true
     }
