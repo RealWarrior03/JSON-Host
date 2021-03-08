@@ -614,5 +614,15 @@
         "recommended": true,
         "available": true,
         "exclusive": true
-    }
+    },
+    {
+        "title": "Tribes of Europa",
+        "provider": "Netflix",
+        "seasons": 1,
+        "episodes": 6,
+        "new": 2021,
+        "completed": false,
+        "recommended": true,
+        "available": true,
+        "exclusive": true
 ]
