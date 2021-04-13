@@ -34,7 +34,7 @@
     "diamonds_min": 1,
     "diamonds_max": 10,
     "diamonds_chance": 0.5
-  }
+  },
   {
     "title": "Rare+ Chest",
     "price": 200,
@@ -43,7 +43,7 @@
     "diamonds_min": 25,
     "diamonds_max": 59,
     "diamonds_chance": 0.6
-  }
+  },
   {
     "title": "Diamond Chest",
     "price": 12500,
