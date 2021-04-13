@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Silver Chest",
+    "price": 0,
+    "gold_min": 7,
+    "gold_max": 69,
+    "diamonds_min": 1,
+    "diamonds_max": 6,
+    "diamonds_chance": 0.05
+  },
+  {
+    "title": "Gold Chest",
+    "price": 30,
+    "gold_min": 199,
+    "gold_max": 249,
+    "diamonds_min": 9,
+    "diamonds_max": 24,
+    "diamonds_chance": 0.4
+  }
+]
