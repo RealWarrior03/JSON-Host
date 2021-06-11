@@ -8,11 +8,28 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
+  },
+  {
+    "Title": "Amazing Stories",
+    "Seasons": 1,
+    "Episodes": 5,
+    "Provider": "Apple TV+",
+    "Release": 2020,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 12,
+    "Updated": "8. Mar 2021",
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Apartment 23",
@@ -23,11 +40,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": false,
+    "FSK": 12,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Barbaren",
@@ -38,11 +56,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Better Call Saul",
@@ -53,11 +72,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Big Mouth",
@@ -68,11 +88,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Biohackers",
@@ -83,11 +104,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S2 confirmed"
   },
   {
     "Title": "Bodyguard",
@@ -98,11 +120,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Breaking Bad",
@@ -113,11 +136,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Bridgerton",
@@ -128,11 +152,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S2 confirmed"
   },
   {
     "Title": "Brooklyn Nine-Nine",
@@ -143,11 +168,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Central Park",
@@ -158,11 +184,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 6,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Crossing Lines",
@@ -173,11 +200,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Dark",
@@ -188,11 +216,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Das Damengambit",
@@ -203,14 +232,15 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
-    "Title": "Defending Jakob",
+    "Title": "Defending Jacob",
     "Seasons": 1,
     "Episodes": 8,
     "Provider": "Apple TV+",
@@ -218,11 +248,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Der Denver-Clan",
@@ -233,11 +264,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Designated Survivor",
@@ -248,11 +280,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Dickinson",
@@ -263,11 +296,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Disenchantment",
@@ -278,11 +312,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Dogs of Berlin",
@@ -293,11 +328,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Élite",
@@ -308,11 +344,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S4 coming on June 18"
   },
   {
     "Title": "F is for Family",
@@ -323,11 +360,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Final Space",
@@ -338,26 +376,28 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "For All Mankind",
     "Seasons": 2,
-    "Episodes": 13,
+    "Episodes": 20,
     "Provider": "Apple TV+",
     "Release": 2021,
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
-    "Updated": "28. Feb 2021",
+    "Available": true,
+    "FSK": 12,
+    "Updated": "4. Jun 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Formula 1: Drive to Survive",
@@ -368,11 +408,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Good Girls",
@@ -383,11 +424,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Haus des Geldes",
@@ -398,11 +440,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S5 coming on September 03"
   },
   {
     "Title": "Her Voice",
@@ -413,11 +456,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Hoops",
@@ -428,11 +472,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "House of Cards",
@@ -443,11 +488,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "How to Get Away With Murder",
@@ -458,11 +504,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "How to Sell Drugs Online (Fast)",
@@ -473,11 +520,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S3 confirmed"
   },
   {
     "Title": "iZombie",
@@ -488,11 +536,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Jane the Virgin",
@@ -503,11 +552,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Jupiter’s Legacy",
@@ -518,11 +568,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Lost in Space",
@@ -533,11 +584,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S3 confirmed"
   },
   {
     "Title": "Love, Death & Robots",
@@ -548,26 +600,28 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 18,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Lupin",
-    "Seasons": 1,
-    "Episodes": 5,
+    "Seasons": 2,
+    "Episodes": 10,
     "Provider": "Netflix",
     "Release": 2021,
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
-    "Updated": "28. Feb 2021",
+    "Available": true,
+    "FSK": 12,
+    "Updated": "11. Jun 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S3 confirmed"
   },
   {
     "Title": "Modern Family",
@@ -578,11 +632,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Mr Robot",
@@ -593,11 +648,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Mr. Iglesias",
@@ -608,26 +664,28 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 6,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Mythic Quest: Raven’s Banquet",
     "Seasons": 2,
-    "Episodes": 10,
+    "Episodes": 17,
     "Provider": "Apple TV+",
-    "Release": 2019,
+    "Release": 2020,
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
-    "Updated": "28. Feb 2021",
+    "Available": true,
+    "FSK": 12,
+    "Updated": "4. Jun 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Narcos",
@@ -638,11 +696,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Norsemen",
@@ -653,11 +712,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Orange is the new Black",
@@ -668,11 +728,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Outer Banks",
@@ -683,11 +744,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S2 confirmed"
   },
   {
     "Title": "Paradise PD",
@@ -698,11 +760,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Peaky Blinders - Gangs of Birmingham",
@@ -713,11 +776,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Prison Break",
@@ -728,11 +792,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Punisher",
@@ -743,11 +808,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 18,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Ragnarök",
@@ -758,11 +824,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Rick & Morty",
@@ -773,11 +840,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "See",
@@ -788,11 +856,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Sex Education",
@@ -803,11 +872,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S3 confirmed"
   },
   {
     "Title": "Sexify",
@@ -818,11 +888,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Sherlock",
@@ -833,11 +904,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Space Force",
@@ -848,11 +920,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Star Trek: Discovery",
@@ -863,11 +936,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Star Wars: The Clone Wars",
@@ -878,11 +952,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "StartUp",
@@ -893,11 +968,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Stranger Things",
@@ -908,11 +984,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S4 confirmed"
   },
   {
     "Title": "Suits",
@@ -923,11 +1000,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Big Bang Theory",
@@ -938,11 +1016,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Crown",
@@ -953,11 +1032,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "The Falcon and the Winter Soldier",
@@ -968,11 +1048,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "The Mandalorian",
@@ -983,11 +1064,12 @@
     "Finished": false,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "4. Jun 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Morning Show",
@@ -998,11 +1080,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Politician",
@@ -1013,11 +1096,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Protector",
@@ -1028,11 +1112,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "The Rain",
@@ -1043,11 +1128,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "The Society",
@@ -1058,11 +1144,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 12,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "Series got deposed"
   },
   {
     "Title": "The Umbrella Academy",
@@ -1073,11 +1160,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S3 confirmed"
   },
   {
     "Title": "The Witcher",
@@ -1088,11 +1176,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": "S2 confirmed"
   },
   {
     "Title": "Tribes of Europa",
@@ -1103,11 +1192,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "Truth be Told",
@@ -1118,41 +1208,28 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Trying",
-    "Seasons": 1,
-    "Episodes": 8,
+    "Seasons": 2,
+    "Episodes": 12,
     "Provider": "Apple TV+",
     "Release": 2020,
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
-    "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
-  },
-  {
-    "Title": "Unglaubliche Geschichten",
-    "Seasons": 1,
-    "Episodes": 5,
-    "Provider": "Apple TV+",
-    "Release": 2020,
-    "Finished": true,
-    "Recommended": false,
-    "Exclusive": true,
-    "Available": "",
-    "FSK": "",
-    "Updated": "8. Mar 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Available": true,
+    "FSK": 12,
+    "Updated": "4. Jun 2021",
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Vikings",
@@ -1163,11 +1240,12 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": false,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "28. Feb 2021",
     "Version": 1,
-    "Added": "26. Feb 2021"
+    "Added": "26. Feb 2021",
+    "Info": ""
   },
   {
     "Title": "WandaVision",
@@ -1178,11 +1256,12 @@
     "Finished": true,
     "Recommended": true,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 0,
     "Updated": "4. Jun 2021",
-    "Version": 2,
-    "Added": "8. Mar 2021"
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
   },
   {
     "Title": "Wer hat Sara ermordet?",
@@ -1193,11 +1272,12 @@
     "Finished": false,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "4. Jun 2021",
-    "Version": 3,
-    "Added": "4. Jun 2021"
+    "Version": 1.2,
+    "Added": "4. Jun 2021",
+    "Info": ""
   },
   {
     "Title": "Wir sind die Welle",
@@ -1208,10 +1288,251 @@
     "Finished": true,
     "Recommended": false,
     "Exclusive": true,
-    "Available": "",
-    "FSK": "",
+    "Available": true,
+    "FSK": 16,
     "Updated": "8. Mar 2021",
+    "Version": 1.1,
+    "Added": "8. Mar 2021",
+    "Info": ""
+  },
+  {
+    "Title": "South Park",
+    "Seasons": 6,
+    "Episodes": 74,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": false,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
     "Version": 2,
-    "Added": "8. Mar 2021"
+    "Added": "5 Jun 21",
+    "Info": "Nur einzelne Staffeln verfügbar"
+  },
+  {
+    "Title": "S.W.A.T.",
+    "Seasons": 2,
+    "Episodes": 45,
+    "Provider": "Netflix",
+    "Release": 2018,
+    "Finished": false,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Riverdale",
+    "Seasons": 5,
+    "Episodes": 86,
+    "Provider": "Netflix",
+    "Release": 2021,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "13 Reasons Why",
+    "Seasons": 4,
+    "Episodes": 49,
+    "Provider": "Netflix",
+    "Release": 2020,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Nightflyers",
+    "Seasons": 1,
+    "Episodes": 10,
+    "Provider": "Netflix",
+    "Release": 2018,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Black Summer",
+    "Seasons": 1,
+    "Episodes": 8,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": false,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": "S2: 17 Jun"
+  },
+  {
+    "Title": "Osmosis",
+    "Seasons": 1,
+    "Episodes": 8,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 12,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "WHAT / IF",
+    "Seasons": 1,
+    "Episodes": 10,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Another Life",
+    "Seasons": 1,
+    "Episodes": 10,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": false,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "The I-Land",
+    "Seasons": 1,
+    "Episodes": 7,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "The End of the F***ing World",
+    "Seasons": 2,
+    "Episodes": 16,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Mars",
+    "Seasons": 2,
+    "Episodes": 12,
+    "Provider": "Netflix",
+    "Release": 2018,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": false,
+    "Available": false,
+    "FSK": 12,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "V Wars",
+    "Seasons": 1,
+    "Episodes": 10,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Family Guy",
+    "Seasons": 7,
+    "Episodes": 140,
+    "Provider": "Netflix",
+    "Release": 2019,
+    "Finished": true,
+    "Recommended": true,
+    "Exclusive": false,
+    "Available": true,
+    "FSK": 16,
+    "Updated": "5 Jun 21",
+    "Version": 2,
+    "Added": "5 Jun 21",
+    "Info": ""
+  },
+  {
+    "Title": "Sweet Tooth",
+    "Seasons": 1,
+    "Episodes": 8,
+    "Provider": "Netflix",
+    "Release": 2021,
+    "Finished": false,
+    "Recommended": false,
+    "Exclusive": true,
+    "Available": true,
+    "FSK": 12,
+    "Updated": "11 Jun 21",
+    "Version": 2,
+    "Added": "11 Jun 21",
+    "Info": ""
   }
 ]
